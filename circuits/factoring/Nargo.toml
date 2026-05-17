@@ -1,0 +1,7 @@
+[package]
+name    = "factoring"
+type    = "bin"
+authors = ["Krypton Ledger"]
+
+[dependencies]
+std = { path = "../../node_modules/@noir-lang/noir_stdlib" }
